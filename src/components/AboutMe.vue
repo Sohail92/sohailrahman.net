@@ -32,8 +32,8 @@
                                         <!-- Information about me card -->
                                         <v-flex d-flex md9>
                                             <v-card color="steel">
-                                                <v-card-text>Hi, I'm an experienced Software Developer with a first class degree in Computer Science from University of Teesside. Currently I work for TUI Group in Stockton-On-Tees as a Senior Web Developer. In the past I have worked for Dupont Teijin Films in Dumfries as a Software Engineer. I am a Microsoft Certified Professional and looking to gain further certification in the near future. Outside of work I enjoy keeping up to date with the latest technological advancements and learning more about the ever-changing software industry.</v-card-text>
-                                                <v-card-text>I have experience developing bespoke Desktop/Web Applications and APIs. In addition to this I have a good understanding of database and search technologies such as SQL Server and Apache Solr. My main interests are in software architecture, utilising the latest technologies and writing high quality, maintainable code. </v-card-text>
+                                                <v-card-text>Hi, I'm an experienced Software Developer with a First Class degree in Computer Science from University of Teesside. Currently I work for Carbon as a Senior Developer in Middlesbrough and in the past I have worked for TUI Group as a Senior Web Developer and Dupont Teijin Films as a Software Engineer. I am a Microsoft Certified Professional and looking to gain further certification in the near future. Outside of work I enjoy keeping up to date with the latest technological advancements and learning more about the ever-changing software industry.</v-card-text>
+                                                <v-card-text>I have experience developing bespoke Desktop/Web Applications and APIs and working with Cloud Service Providers such as AWS and Azure. In addition to this I have a good understanding of database and search technologies such as SQL Server and Apache Solr. My main interests are in software architecture, utilising the latest technologies and writing high quality, maintainable code. </v-card-text>
                                                 <v-card-actions>
                                                     <v-btn  :href="`mailto:${'contact@sohailrahman.net'}`" color="blue" >                                      
                                                         <v-icon left>mail</v-icon>  Send me an e-mail
@@ -53,7 +53,7 @@
                                 <ul>
                                     <li>Most of my experience is with C# as my programming language of choice. I have used C# to develop both Desktop and Web Applications, RESTful and WCF based Services and more. I have also developed with languages such as Java and Delphi.</li>
                                     <li>I have worked with both SQL and NoSQL technologies in the past such as: SQL Server, MongoDB, CosmosDB and Apache Solr.</li>
-                                    <li>In regards to source control I am comfortable with both TFS and Git.</li>
+                                    <li>In regards to source control I am comfortable with both TFVC (AzureDevOps/TFS) and Git (BitBucket, GitHub).</li>
                                     <li>Knowledge of various development tools such as Webpack, Babel, Ninject, Moq, Linters, POSTman, Fiddler and more.</li>
                                 </ul>
                             <br/>
