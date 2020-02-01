@@ -1,5 +1,11 @@
 # SohailRahman.net website
 
+Technologies used:
+- Vue
+- Vuetify
+- Firebase
+- HTML/CSS/JS
+
 ## Project setup
 ```
 npm install
