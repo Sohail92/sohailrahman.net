@@ -13,9 +13,9 @@
                                             <v-card color="steel" width="100%">
                                                 <v-avatar class="myImage" :class="{'myImageXS': $vuetify.breakpoint.xs, 'myImageSmall': $vuetify.breakpoint.sm
                                                 , 'myImageMedium': $vuetify.breakpoint.md, 'myImageLarge': $vuetify.breakpoint.lg, 'myImageXtraLarge':$vuetify.breakpoint.xl}">
-                                                    <img src="../../src/assets/cropped.jpg">
+                                                    <img src="../../src/assets/me.jpg">
                                                 </v-avatar>
-                                                <v-list-item>
+                                                <v-list-item class="centeredText">
                                                     <v-list-item-content>
                                                         <v-list-item-title class="title">Sohail Rahman</v-list-item-title>
                                                         <v-list-item-subtitle class="hidden-md-and-up">Senior Web Developer - TUI Group</v-list-item-subtitle>
@@ -79,7 +79,7 @@
 
 <script>
 import Butter from 'buttercms';
-export const butter = Butter('i-have-removed-token-for-security-reasons');
+export const butter = Butter('f8c25828916fe2efad14da59fb81f27af5b58c79');
 
 export default {  
     name: "MyComponent",
@@ -128,7 +128,7 @@ export default {
 </script>
 
 <style>
-.myImage{ margin-left:0px;}
+.myImage{ margin-left:0px; display: block !important; margin:0 auto; border-top-left-radius: 0 !important; border-top-right-radius: 0 !important;}
 .myImageXS {
     height:75px !important;
     width:75px !important;
@@ -155,5 +155,8 @@ li{
 }
 ul {
   list-style-type: square !important;
+}
+.centeredText{
+    text-align: center;
 }
 </style>
