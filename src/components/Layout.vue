@@ -14,6 +14,9 @@
                 <v-list-item-title>{{ item.title }}</v-list-item-title>
             </v-list-item-content>
         </v-list-item>
+
+        <a href="https://buttercms.com"><img src="https://cdn.buttercms.com/JSSDbrHPSnGlLUcyHTn5" style="width: 122px; height:31px; position: absolute; left: 0; bottom: 0;" title="ButterCMS" alt="ButterCMS"></a>
+
       </v-list>
     </v-navigation-drawer>
 
