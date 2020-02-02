@@ -3,8 +3,15 @@
 Technologies used:
 - Vue
 - Vuetify
+- ButterCMS
 - Firebase
 - HTML/CSS/JS
+
+Got a few bits to do that I am going to note here for future reference:
+- Use Google Analytics for insights
+- Add a section for Useful links 
+- Use Vue Router to be a SPA.
+- Password protected section for hosting personal files (Maybe use AWS Cognito or Okta)
 
 ## Project setup
 ```
