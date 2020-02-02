@@ -18,7 +18,7 @@
                                                 <v-list-item class="centeredText">
                                                     <v-list-item-content>
                                                         <v-list-item-title class="title">Sohail Rahman</v-list-item-title>
-                                                        <v-list-item-subtitle class="hidden-md-and-up">Senior Web Developer - TUI Group</v-list-item-subtitle>
+                                                        <v-list-item-subtitle class="hidden-md-and-up">Senior Web Developer - CarbonDMP</v-list-item-subtitle>
                                                         <v-list-item-subtitle class="hidden-sm-and-down">Senior Web Developer</v-list-item-subtitle>
                                                         <v-list-item-subtitle class="hidden-sm-and-down">Carbon by Clicksco</v-list-item-subtitle>
                                                     </v-list-item-content>
